@@ -1,16 +1,17 @@
-# utsprojek
+![Screenshot 2024-10-12 231932](https://github.com/user-attachments/assets/9b1668c0-ac0c-4cee-93a2-3ada7d1acf3b)
+gambar diatas menampilkan hasil pertama dari login screen
 
-A new Flutter project.
+![Screenshot 2024-10-12 232016](https://github.com/user-attachments/assets/e48517ae-a833-45f6-8e3d-42d74e491568)
+gambar diatas menampilkan hasil dari daftar screen
 
-## Getting Started
+![Screenshot 2024-10-12 232030](https://github.com/user-attachments/assets/55991f11-e7d4-411e-8de1-54315c84c861)
+dan ini gambar setelah melakukan proses pendaftaran berhasil
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-10-12 232057](https://github.com/user-attachments/assets/c10c7ed6-21c2-42c6-98a2-15cf69e22baf)
+gambar ini menampilkan ketika kita sudah login
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 2024-10-12 232117](https://github.com/user-attachments/assets/f1067b98-67ad-44c2-87e7-af7eed70ed60)
+gambar ini menampilkan hasil dari profilee screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-10-12 232137](https://github.com/user-attachments/assets/5f7d2e9c-91ea-4561-9df4-744be231030f)
+dan gambar ini menampilkan hasil ketika kita keluar dari aplikasi tersebut
